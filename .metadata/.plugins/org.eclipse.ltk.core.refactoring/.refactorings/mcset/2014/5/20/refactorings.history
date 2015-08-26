@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.mymcset&apos; to &apos;com.redlake.themcset.core&apos;&#x0D;&#x0A;- Original project: &apos;MyMCset&apos;&#x0D;&#x0A;- Original element: &apos;MyMCset/src/com.example.mymcset&apos;&#x0D;&#x0A;- Renamed element: &apos;MyMCset/src/com.redlake.themcset.core&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.mymcset&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.example.mymcset" name="com.redlake.themcset.core" qualified="false" references="true" stamp="1400297563867" textual="false" version="1.0"/>
+</session>

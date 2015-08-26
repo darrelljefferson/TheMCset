@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="manufactures_list">
+        <item>Aprilia Motorcycles</item>
+        <item>Benelli Motorcycles</item>
+        <item>Beta Motorcycles</item>
+        <item>Bimota Motorcycles</item>
+        <item>BMW Motorcycles</item>
+        <item>Buell Motorcycles</item>
+        <item>Cagiva Motorcycles</item>
+        <item>Can-Am Motorcycles</item>
+        <item>Ducati Motorcycles</item>
+        <item>Harley-Davidson Motorcycles</item>
+        <item>Honda Motorcycles</item>
+        <item> Husaberg Motorcycles</item>
+        <item> Husqvarna Motorcycles</item>
+        <item>Hyosung Motorcycles</item>
+        <item>Indian Motorcycles</item>
+        <item>Kawasaki Motorcycles</item>
+        <item>KTM Motorcycles</item>
+        <item>Kymco Motorcycles</item>
+        <item>Laverda Motorcycles</item>
+        <item>Moto Guzzi Motorcycles</item>
+        <item>MV Agusta Motorcycles</item>
+        <item>Norton Motorcycles</item>
+        <item>OCC Motorcycles</item>
+        <item>Phantom Motorcycles</item>
+        <item>Piaggio Motorcycles</item>
+        <item>Ridley Motorcycles</item>
+        <item>Roehr Motorcycles</item>
+        <item>Royal Enfield Motorcycles</item>
+        <item>Suzuki Motorcycles</item>
+        <item>Triumph Motorcycles</item>
+        <item>Ural Motorcycles</item>
+        <item>Vespa Motorcycles</item>
+        <item>Victory Motorcycles</item>
+        <item>Yamaha Motorcycles</item>
+        <item>Zero Motorcycles</item>
+    </string-array>
+
+</resources>
